@@ -1,0 +1,16 @@
+{
+  "Name": "Stimpack Redone",
+  "Author": "Possibly Remember",
+  "Description": "Pack of Fallout chems. Redone 2024. I prefer C++ so this is utter pain, NO CONSTEXPR FOR CONVERTRGBTOFLOAT????",
+  "ModVersion": "3.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "sprites/modthumb.png",
+  "EntryPoint": "FalloutChems.FalloutChems",
+  "Tags": [],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
